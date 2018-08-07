@@ -1,0 +1,4 @@
+c:\users\access_denied\documents\visual studio 2010\Projects\TeamBeastMode\TeamBeastMode\bin\Debug\TeamBeastMode.exe
+c:\users\access_denied\documents\visual studio 2010\Projects\TeamBeastMode\TeamBeastMode\bin\Debug\TeamBeastMode.pdb
+c:\users\access_denied\documents\visual studio 2010\Projects\TeamBeastMode\TeamBeastMode\obj\x86\Debug\TeamBeastMode.exe
+c:\users\access_denied\documents\visual studio 2010\Projects\TeamBeastMode\TeamBeastMode\obj\x86\Debug\TeamBeastMode.pdb
